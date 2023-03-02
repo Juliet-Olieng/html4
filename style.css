@@ -1,0 +1,138 @@
+.container{
+    padding:0;  
+}
+.container3{
+    height: 500px;
+}
+.container1{
+    display: flex;
+    gap: 30px;
+}
+.imgne{
+    height: 30px;
+    width: 20px;
+}
+.label{
+    display: flex;
+    margin-inline: 20px;
+    margin-left: 400px;
+    gap: 40px;
+}
+.para{
+    display: flex;
+}
+.sentence{
+    width: 40%;
+}
+.dis{
+    align-content: center;
+    background-color: rgb(48, 46, 46);
+    color: white;
+    height: 200px;
+}
+.page{
+    margin-left: 200px;
+}
+input{
+   margin-left: 200px;
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid white;
+}
+#button{
+    border-radius: 10px;
+    border: none;
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+}
+.img{
+    background-color: rgb(128, 126, 126);
+    width: 60%;
+    background-size: cover;    
+}
+#pexels{
+    margin-left: 400px;
+    width: 400px;
+    height: 300px;
+    
+}
+.product{
+    background-image: url(sitting.jpeg);
+    height: 400px;
+    width: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 30px;
+}
+.product2{
+    background-image: url(office.avif);
+    height: 50%;
+    width: 600px;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    margin: 30px;
+}
+.product3{
+    background-image: url(beach.webp);
+    height: 50%;
+    width: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.product4{
+    margin-left: 100px;
+}
+.container2{
+    display: flex;
+    margin: 20px;
+    gap: 40px;
+}
+.image2{
+    background-color:blue;
+    background-image: url(dinning2.jpg);
+    height: 400px;
+    width: 60%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.image{
+    display: flex;
+    background-image: url(bor.jpg);
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+
+}
+img{
+    width: 300px;
+    height: 400px;
+}
+.container4{
+    display: flex;
+    float: left;
+    
+}
+.container5{
+    /* display: flex; */
+}
+.container6{
+    background-color: black;
+    color: white;
+
+}
+.last{
+    justify-content: left;
+    float: left;
+    display: flex;
+    padding: 2%;
+    gap: 130px;
+}
+.lastp{
+    margin-left: 100px;
+    display: flex;
+    gap: 120px;
+}
+
